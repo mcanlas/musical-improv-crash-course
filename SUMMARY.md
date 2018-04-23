@@ -1,7 +1,6 @@
 # Table of contents
 
 * [musical-improv-crash-course](README.md)
-* Introduction
 * [Differences from regular improv](differences-from-regular-improv.md)
 * [Building blocks](building-blocks/README.md)
   * [Chorus](building-blocks/chorus.md)
