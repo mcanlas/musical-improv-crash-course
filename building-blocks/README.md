@@ -4,7 +4,7 @@ Structure is the difference between songs and singing.
 
 ## Common properties
 
-Almost every song element will be four musical lines long.
+Almost every song element or "block" will be four musical lines long.
 
 {% hint style="info" %}
 Beware of short lyrical lines that are not the same length as musical lines. A block will always be four musical lines regardless of how the lyrics are sung.
