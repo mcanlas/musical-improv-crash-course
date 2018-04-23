@@ -12,7 +12,7 @@ Beware of short lyrical lines that are not the same length as musical lines. A b
 
 ## Splitting
 
-Splitting verses, bridges, or choruses is usually related to how perspectives were established earlier in the scene. There are multiple ways to split a block. It could be take two each.
+Splitting verses, bridges, or choruses is usually related to how perspectives were established earlier in the scene. There are multiple ways to split a block. It could be take two lines each.
 
 > Line 1 \(Perspective A\)  
 > Line 2 \(Perspective A\)  
