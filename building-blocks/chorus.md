@@ -20,7 +20,7 @@ A chorus is four musical lines long. Each line will be designated a type, either
 Each line is an "A" line. Even though the lyrics are the same for each line, they can sound different musically/melodically.
 
 {% hint style="info" %}
-A good chorus line has very few words. Like less than five. Anything more than that is difficult for an entire time to remember and repeat.
+A good chorus line has very few words. Like less than five. Anything more than that is difficult for an entire team to remember and repeat.
 {% endhint %}
 
 If a line was different than the others, it would be a "B" line.
