@@ -51,7 +51,7 @@ The **AABA** structure is often sung as **AA\*A**, meaning that the third line i
 Sometimes a chorus will be established from the perspective of one character. If supporting players sang the exact same lyrics, the pronouns wouldn't make sense. You can tweak the lyrics.
 
 > Primary singer: I love cats.  
-> Scene partner: You love cats.
+> Scene partner: He loves cats.
 
 There can also be changes in perspectives if there's a discovery or someone is  convinced of something.
 
