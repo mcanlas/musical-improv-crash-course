@@ -2,7 +2,7 @@
 
 ## Opening number content {#last-ditch-ending}
 
-Don't use "I" or "me" statements in the opening number. We don't want characters being established prematurely. It should focus on world building or descriptions in the second person \(e.g. "You know when this happens...", "You can..."\).
+Don't use "I" or "me" statements in the opening number for a narrative. We don't want characters being established prematurely. It should focus on world building or descriptions in the second person \(e.g. "You know when this happens...", "You can..."\).
 
 ## Choosing a form {#last-ditch-ending}
 

@@ -13,14 +13,14 @@ Here's a song ending with a chorus with the last line sung twice.
 >   
 > Ending line: I love cats.
 
-Here's a song with a backline tag with the tag line sung slower.
+Here's a song with a backline tag with the tagline sung slower.
 
 > Last verse line 1: ...  
 > Last verse line 2: ...  
 > Last verse line 3: ...  
-> Last verse tagline 4: I love cats.
+> Last verse tagline 4: I love cats. \(song ends here\)
 
-Here's a song with a frontline tag with the tag line repeated.
+Here's a song with a frontline tag with the tagline repeated.
 
 > Last verse tagline: I love cats.  
 > Last verse line 2: ...  

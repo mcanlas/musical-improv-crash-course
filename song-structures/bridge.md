@@ -2,7 +2,7 @@
 
 ## Function
 
-A bridge is the opportunity to explore a different perspective than the one established in the verses. It has the same lyrical complexity as a verse and lacks repetition just like a verse.
+A bridge is the opportunity to explore a different perspective than the one established in the verses and chorus. It has the same lyrical complexity as a verse and lacks repetition just like a verse.
 
 In general, a bridge is signified by a change in musical tone or quality from the accompanist.
 

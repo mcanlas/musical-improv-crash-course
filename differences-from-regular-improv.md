@@ -1,11 +1,11 @@
 # Differences from regular improv
 
-Musical is in general more emotional than regular improv. Everything ramps much faster emotionally.
+Musical improv is, in general, more emotional than regular improv. Everything ramps much faster emotionally.
 
 If you feel like your scene isn't going anywhere, it's probably because you don't know how you feel or haven't made it known to everyone.
 
 {% hint style="info" %}
-It's better to focus on the relationships between characters and how they make each other feel rather than external things like problem solving or characters that are not on stage.
+It's better to focus on the relationships between characters and how they make each other feel rather than external things like problem solving or characters that are not on stage. Don't solve problems, just be affected by them.
 {% endhint %}
 
 ## When does the song start?

@@ -19,6 +19,6 @@
   * [Fairytale](untitled-1/fairytale.md)
   * [Hero's journey](untitled-1/heros-journey.md)
   * [Genre](untitled-1/genre.md)
-* Song types
+* [Song types](song-types.md)
 * [Where to watch](where-to-watch.md)
 

@@ -19,6 +19,10 @@ A chorus is four musical lines long. Each line will be designated a type, either
 
 Each line is an "A" line. Even though the lyrics are the same for each line, they can sound different musically/melodically.
 
+{% hint style="info" %}
+A good chorus line has very few words. Like less than five. Anything more than that is difficult for an entire time to remember and repeat.
+{% endhint %}
+
 If a line was different than the others, it would be a "B" line.
 
 > Line 1: I love cats.  
@@ -62,15 +66,22 @@ There can also be changes in perspectives if there's a discovery or someone is  
 
 Be careful of a "half chorus". Take this chorus as an example.
 
-> Line 1: I love cats.  
-> Line 2: They are cute.  
-> Line 3: I love cats.  
-> Line 4: They are cute.
+> Line 1: I love cats. \(A\)  
+> Line 2: They are cute. \(B\)  
+> Line 3: I love cats. \(A\)  
+> Line 4: They are cute. \(B\)
 
 If each line is sung as a shorter musical phrase, it would look like this.
 
-> Line 1: I love cats. They are cute.  
-> Line 2: I love cats. They are cute.
+> Line 1: I love cats. They are cute. \(A\)  
+> Line 2: I love cats. They are cute. \(A\)
 
 Notice how this chorus is only two musical lines long even though there are four sentences. Chorus length is determined by the music, not the lyrics.
+
+This is generally fixed by repeating the half chorus twice.
+
+> Line 1: I love cats. They are cute. \(A\)  
+> Line 2: I love cats. They are cute. \(A\)  
+> Line 3: I love cats. They are cute. \(A\)  
+> Line 4: I love cats. They are cute. \(A\)
 
