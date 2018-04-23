@@ -4,6 +4,10 @@
 
 Don't use "I" or "my" statements in the opening number for a narrative. We don't want characters being established prematurely. It should focus on world building or descriptions in the second person \(e.g. "You know when this happens...", "You can..."\). You can use "we" as long as the perspective is very broad and isn't building specific characters.
 
+## Choosing a song structure
+
+Favor diversity. If the previous scene just featured a sad Verse Chorus song, pick a different structure with a different sound.
+
 ## Choosing a form
 
 If you're doing a freestyle show, note that the fairytale and narrative start the exact same way \(with a protagonist scene\).
