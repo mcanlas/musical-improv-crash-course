@@ -24,3 +24,5 @@ For class shows, you may also see this form which features an extra verse.
 
 ## Function
 
+Used to open shows and for world building.
+
