@@ -15,7 +15,7 @@ Sing the first eight lines. This allows one character to establish a verse and a
 ## Off structure
 
 {% hint style="info" %}
-If you are not clear where in a song form you are with your scene partner or the accompanist, one strategy is to just start a very simple chorus. This will give everyone an opportunity to get back onto the same page. 
+If you are not clear where in a song form you are with your scene partner or the accompanist, one strategy is to just start a very simple chorus. This will give everyone an opportunity to get back onto the same page.
 {% endhint %}
 
 ## Ending a song
@@ -46,3 +46,4 @@ Here's a song with a frontline tag with the tagline repeated.
 > Last verse line 4: ...  
 >   
 > Ending line: I love cats.
+
