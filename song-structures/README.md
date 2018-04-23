@@ -1,26 +1,49 @@
-# Building blocks
+# Song structures
 
-Structure is the difference between songs and singing.
+## Ending a song
 
-## Common properties
+Every song will have either a chorus or a tagline. Songs are typically ended by elongating the last line or singing it twice.
 
-Almost every song element will be four musical lines long.
+Here's a song ending with a chorus with the last line sung twice.
 
-## Splitting
+> Last chorus line 1: They are fluffy.  
+> Last chorus line 2: I love cats.  
+> Last chorus line 3: They are fluffy.  
+> Last chorus line 4: I love cats.  
+>   
+> Ending line: I love cats.
 
-Splitting verses, bridges, or choruses is usually related to how perspectives were established earlier in the scene. There are multiple ways to split a block. It could be take two each.
+Here's a song with a backline tag with the tagline sung slower.
 
-> Line 1 \(Perspective A\)  
-> Line 2 \(Perspective A\)  
-> Line 3 \(Perspective B\)  
-> Line 4 \(Perspective B\)
+> Last verse line 1: ...  
+> Last verse line 2: ...  
+> Last verse line 3: ...  
+> Last verse tagline 4: I love cats. \(song ends here\)
 
-Or it could be line for line.
+Here's a song with a frontline tag with the tagline repeated.
 
-> Line 1 \(Perspective A\)  
-> Line 2 \(Perspective B\)  
-> Line 3 \(Perspective A\)  
-> Line 4 \(Perspective B\)
+> Last verse tagline: I love cats.  
+> Last verse line 2: ...  
+> Last verse line 3: ...  
+> Last verse line 4: ...  
+>   
+> Ending line: I love cats.
 
-Characters can also sing over one another.
+## Off structure
+
+{% hint style="info" %}
+If you are not clear where in a song form you are with your scene partner or the accompanist, one strategy is to just start a very simple chorus. This will give everyone an opportunity to get back onto the same page. 
+{% endhint %}
+
+## Choosing a structure
+
+Most of the time, you won't know what song structure a scene will use. Even a scene with three characters may not be a trio if there are only two distinct perspectives \(i.e. multiple characters have the same perspective\).
+
+{% hint style="info" %}
+Commit like you will sing the whole song.
+{% endhint %}
+
+{% hint style="info" %}
+Sing the first eight lines. This allows one character to establish a verse and a chorus that fit together thematically. In a tagline song, it allows one person to decide if the song is frontline or backline.
+{% endhint %}
 

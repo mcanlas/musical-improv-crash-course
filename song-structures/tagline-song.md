@@ -49,5 +49,5 @@ This structure is good if you are on a time crunch since it is a short form.
 
 This structure is good if you say something during a scene that would make a good tag or thesis.
 
-This is often used by antagonists in the [fairytale narrative](../untitled-1/fairytale.md#antagonist).
+This is often used by antagonists in the [fairytale narrative](../narrative-forms/fairytale.md#antagonist).
 
