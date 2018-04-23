@@ -17,5 +17,5 @@ If a show is running low on time, the last number can be an abbreviated form lik
 
 ## Last ditch ending
 
-Sometimes there won't be a clean ending to a show or there won't be a consensus on how to end a show. One way of getting to an ending is to say something like "I think we all learned something here today." and then sing a short song about that.
+Sometimes there won't be a clean ending to a show or there won't be a consensus on how to end a show. One way of getting to an ending is to say something like "I think we all learned something here today." and then sing a short song about what was learned.
 
