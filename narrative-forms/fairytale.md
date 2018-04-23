@@ -1,5 +1,7 @@
 # Fairytale
 
+This format is good for 25-min class shows. Not suitable for 20-min house shows given the length.
+
 ## Show structure
 
 1. Protagonist scene
@@ -43,4 +45,8 @@ This is typically sung as a protagonist solo.
 Usually one of the charm characters will magically find a solution. The protagonist should get the want established in Scene 1 and the antagonist should get their comeuppance.
 
 Typically sung as a two-chorus out.
+
+{% hint style="info" %}
+Improvisors will often "argue" or debate about solutions if there are multiple on the table. Shows will typically be racing to an ending at this point, so it's best to jump on the first solution suggested and end the show that way.
+{% endhint %}
 

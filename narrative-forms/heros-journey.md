@@ -1,12 +1,14 @@
 # Hero's journey
 
+This format is good for shows of any length since there can be any number of scenes after the first.
+
 ## Show structure
 
 1. Protagonist scene
 2. Scene with protagonist
 3. Scene with protagonist
 4. Scene with protagonist
-5. Scene with protagonist
+5. Scene with protagonist \(if needed\)
 
 ## Protagonist
 
