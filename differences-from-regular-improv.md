@@ -12,5 +12,5 @@ It's better to focus on the relationships between characters and how they make e
 
 The song starts when the accompanist feels like you've reached such a heightened state of emotion that there's no choice but to sing.
 
-If you feel like a song should have started but you aren't getting one, repeat with conviction how you feel until you and the accompanist are on the same page.
+If you feel like a song should have started but you aren't getting one, repeat how you feel with conviction until you and the accompanist are on the same page.
 
