@@ -9,9 +9,9 @@
 5. Bridge
 6. Chorus
 
-The form above is also known as "the one and one" \(one verse, one bridge\).
+The form above is also known as "the one and one" \(one verse, one bridge\). This is extremely common among house teams that perform need to perform this abridged opening and four beats in a 22 minute slot.
 
-For class shows, you may also see this form which features an extra verse.
+For class shows \(where the time constraint isn't as tight\), you may see this form which features an extra verse.
 
 1. Chorus \(solo\)
 2. Chorus \(tutti\) 
