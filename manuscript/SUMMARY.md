@@ -1,0 +1,23 @@
+# Table of contents
+
+* [musical-improv-crash-course](README.md)
+* [Differences from regular improv](differences-from-regular-improv.md)
+* [Building blocks](building-blocks/README.md)
+  * [Chorus](building-blocks/chorus.md)
+  * [Verse](building-blocks/verse.md)
+  * [Bridge](building-blocks/bridge.md)
+* [Song structures](song-structures/README.md)
+  * [Verse chorus song](song-structures/verse-chorus-song.md)
+  * [Chorus verse song](song-structures/chorus-verse-song.md)
+  * [Trio](song-structures/trio.md)
+  * [Tagline song](song-structures/tagline-song.md)
+  * [Opening number](song-structures/opening-number.md)
+  * [Perspectives](song-structures/perspectives.md)
+* [Narrative forms](narrative-forms/README.md)
+  * [Montage](narrative-forms/montage.md)
+  * [Fairytale](narrative-forms/fairytale.md)
+  * [Hero's journey](narrative-forms/heros-journey.md)
+  * [Genre](narrative-forms/genre.md)
+* [Song types](song-types.md)
+* [Where to watch](where-to-watch.md)
+
